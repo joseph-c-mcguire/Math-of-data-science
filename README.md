@@ -5,4 +5,3 @@ The file contained are some recommended data sets to use for MATH 476: The Mathe
 
 
 ## Resource List:
-https://www.overleaf.com/read/vzzsnynvpmrm
