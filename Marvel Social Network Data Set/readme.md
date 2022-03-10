@@ -33,7 +33,8 @@ _Possible Questions:_
 - (Harder) Create a bipartite graph with the 'nodes.csv' and 'edges.csv' data, explore this bipartite graph.
 
 ## Possible Resources
-Python Libraries:
+Python
+- Google Colab, for collabrative coding environment https://colab.research.google.com/
 - Networkx, for generating graphs https://networkx.org/
 - CDLib, for community detection https://cdlib.readthedocs.io/en/latest/
 
