@@ -26,11 +26,11 @@ Using the 'hero-network.csv' data, generate a network and explore this network.
 If you use any algorithms not described in class, make sure to include an explanation.
 
 _Possible Questions:_
-Describe any pattern you see in the communities. Is there a clear cluster for 
-To what degree is this network connected? Is there clear 'homophily' in its structure?
-Which are the more influential nodes inside the different communities.
-(Hard) Create a directed graph with the 'hero-network' data set and explore this network.
-(Harder) Create a bipartite graph with the 'nodes.csv' and 'edges.csv' data, explore this bipartite graph.
+- Describe any pattern you see in the communities. Is there a clear cluster for 
+- To what degree is this network connected? Is there clear 'homophily' in its structure?
+- Which are the more influential nodes inside the different communities.
+- (Hard) Create a directed graph with the 'hero-network' data set and explore this network.
+- (Harder) Create a bipartite graph with the 'nodes.csv' and 'edges.csv' data, explore this bipartite graph.
 
 ## Possible Resources
 Python Libraries:
