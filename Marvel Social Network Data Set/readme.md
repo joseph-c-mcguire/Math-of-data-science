@@ -23,6 +23,8 @@ A very common application of community detection is applying these algorithms to
 You're given a 'social network' of Marvel super heros, explore some topics in social network analysis applied to this graph.
 Using the 'hero-network.csv' data, generate a network and explore this network.
 
+If you use any algorithms not described in class, make sure to include an explanation.
+
 _Possible Questions:_
 Describe any pattern you see in the communities. Is there a clear cluster for 
 To what degree is this network connected? Is there clear 'homophily' in its structure?
