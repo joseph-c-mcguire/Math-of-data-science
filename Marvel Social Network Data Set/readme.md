@@ -36,6 +36,7 @@ _Possible Questions:_
 Python Libraries:
 - Networkx, for generating graphs https://networkx.org/
 - CDLib, for community detection https://cdlib.readthedocs.io/en/latest/
+
 Useful Links:
 - 'Marvel Universe looks almost like a real social network' (Alberich et al., 2002) https://arxiv.org/pdf/cond-mat/0202174.pdf
 - https://en.wikipedia.org/wiki/Social_network_analysis
