@@ -17,11 +17,23 @@ That is "3-D MAN/CHARLES CHAN" appeared in Marvel comic book "AVF 4".
 # The Project
 
 ## Community Detection
-This project will be largely an exploratory analysis of this data set, a very common application of community detection is applying these algorithms to social networks.
-You're give a 'social network' of Marvel super heros
-Using the 'hero-network.csv' data, explore the community structure of the network. Using CDLib or any other Python resources, explore different algorithms for community detection.
+This project will be largely an exploratory analysis of this data set.
+A very common application of community detection is applying these algorithms to social networks, either for marketing or data mining purposes.
+
+You're given a 'social network' of Marvel super heros, explore some topics in social network analysis applied to this graph.
+Using the 'hero-network.csv' data, generate a network and explore this network.
 
 _Possible Questions:_
-Describe any pattern you see in the communities.
+Describe any pattern you see in the communities. Is there a clear cluster for 
+To what degree is this network connected? Is there clear 'homophily' in its structure?
 Which are the more influential nodes inside the different communities.
-(Harder) Is there a clear community structure in the bipartite graphs obtained from the 'nodes
+(Hard) Create a directed graph with the 'hero-network' data set and explore this network.
+(Harder) Create a bipartite graph with the 'nodes.csv' and 'edges.csv' data, explore this bipartite graph.
+
+## Possible Resources
+Python Libraries:
+- Networkx, for generating graphs https://networkx.org/
+- CDLib, for community detection https://cdlib.readthedocs.io/en/latest/
+Useful Links:
+- 'Marvel Universe looks almost like a real social network' (Alberich et al., 2002) https://arxiv.org/pdf/cond-mat/0202174.pdf
+- https://en.wikipedia.org/wiki/Social_network_analysis
